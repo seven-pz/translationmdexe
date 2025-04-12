@@ -2,3 +2,10 @@ transformers
 torch
 PyQt5
 PyInstaller
+cryptography
+cryptography==3.4.7
+python-docx==0.8.11
+PyQt5==5.15.4
+transformers==4.5.1
+sqlite3  # inclus avec Python
+difflib  # inclus avec Python
