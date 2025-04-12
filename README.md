@@ -45,7 +45,7 @@ TraductionSécurisée a été conçu avec la sécurité comme priorité absolue 
 
 ## 🤝 Contribution
 
-Bien que le code source ne soit pas public pour des raisons de sécurité, nous accueillons favorablement les retours d'expérience, les rapports de bugs et les suggestions d'amélioration. N'hésitez pas à ouvrir une issue pour partager vos idées !
+Feel free de contribuer :)
 
 ## 📄 Licence
 
