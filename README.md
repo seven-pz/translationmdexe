@@ -11,7 +11,7 @@ TraductionSécurisée est une application de bureau innovante conçue pour la tr
 - **Fonctionnement Hors Ligne** : Aucune connexion Internet requise, idéal pour les environnements sécurisés.
 - **Interface Utilisateur Intuitive** : Simple à utiliser, même pour les non-techniciens.
 - **Support de Formats Multiples** : Traduit les fichiers Markdown (.md) et word (.docx) tout en préservant la mise en forme.
-- **Modèle de Traduction Avancé** : Utilise des modèles de pointe pour des traductions de haute qualité.
+- **Modèle de Traduction Avancé** : Utilise des modèles de pointe pour des traductions de haute qualité. (Merci @HuggingFace)
 
 ## 🚀 Installation
 
