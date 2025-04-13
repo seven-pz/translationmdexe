@@ -1,6 +1,6 @@
 # TraductionSécurisée
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![Version](https://img.shields.io/badge/version-2.0.0-blue.svg)
 ![Licence](https://img.shields.io/badge/licence-MIT-green.svg)
 
 TraductionSécurisée est une application de bureau innovante conçue pour la traduction locale et hors ligne de documents confidentiels. Elle offre une solution sécurisée pour les entreprises et les professionnels qui ont besoin de traduire des informations sensibles sans compromettre leur confidentialité.
